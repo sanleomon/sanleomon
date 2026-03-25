@@ -56,8 +56,4 @@ Become a Backend Developer and grow into a Fullstack Engineer
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/santiago-monzon##
-
-## 📊 GitHub Stats
-
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanleomon&show_icons=true)
+- LinkedIn: https://linkedin.com/in/santiago-monzon
