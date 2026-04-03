@@ -1,7 +1,7 @@
 # Hi, I'm Santiago Monzon 👋
 
 🎓 Computer Engineering Student at UBA  
-💻 Backend Developer (Java)  
+💻 Backend Developer   
 🚀 Passionate about building backend systems and APIs  
 
 ---
