@@ -19,8 +19,7 @@
 
 - Java
 - C
-- C++
-- Python  
+- C++  
 - Spring Boot  
 - SQL  
 - Git  
