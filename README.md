@@ -1,55 +1,65 @@
 # Hi, I'm Santiago Monzon 👋
 
 🎓 Computer Engineering Student at UBA  
-💻 Backend Developer   
-🚀 Passionate about building backend systems and APIs  
+💻 Backend-Oriented Developer transitioning into Fullstack  
+🚀 Passionate about building applications and learning modern web technologies  
 
 ---
 
 ## 🧠 About Me
 
-- Focused on backend development using Java and Spring Boot  
-- Strong understanding of object-oriented programming and data structures  
-- Currently building and improving REST APIs  
-- Looking for my first opportunity as a Backend Developer  
+- Strong programming foundation (C, C++, Java)
+- Built a backend REST API project with Java and Spring Boot
+- Currently learning frontend development (HTML and CSS), with JavaScript as the next step
+- Interested in becoming a Fullstack Developer
+- Looking for my first opportunity in software development  
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Languages:**
 - Java
-- C
-- C++  
+- C / C++
+
+**Backend:**
 - Spring Boot  
+- REST APIs  
 - SQL  
+
+**Frontend (learning):**
+- HTML  
+- CSS  
+
+**Tools:**
 - Git  
+- Postman  
 
 ---
 
 ## 📂 Featured Project
 
-### ⚽ Football Management API
+### ⚽ Football Management API  
 Backend API built with Java and Spring Boot to manage teams, matches, and standings.
 
 🔗 https://github.com/sanleomon/gestion-futbol-api  
 
 ✔ RESTful endpoints  
 ✔ Clean code and OOP principles  
-✔ Basic testing included  
 
 ---
 
 ## 📈 Currently Learning
 
-- Spring Boot (advanced concepts)  
-- REST API best practices  
-- Backend architecture fundamentals  
+- HTML & CSS (in progress)  
+- JavaScript (next step)  
+- Web development fundamentals  
 
 ---
 
 ## 🎯 Goal
 
-Become a Backend Developer and grow into a Fullstack Engineer  
+Become a Fullstack Developer and build complete web applications  
 
 ---
 
