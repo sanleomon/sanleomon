@@ -1,7 +1,7 @@
 # Hi, I'm Santiago Monzon 👋
 
 🎓 Computer Engineering Student at UBA  
-💻 Backend-Oriented Developer transitioning into Fullstack  
+💻 Junior Backend-Oriented Developer transitioning into Fullstack  
 🚀 Passionate about building applications and learning modern web technologies  
 
 ---
