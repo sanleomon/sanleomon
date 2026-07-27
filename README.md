@@ -10,7 +10,7 @@
 
 - Strong programming foundation (C, C++, Java)
 - Built a backend REST API project with Java and Spring Boot
-- Currently learning frontend development (HTML and CSS), with JavaScript as the next step
+- Currently learning frontend development (HTML, CSS, JavaScript)
 - Interested in becoming a Fullstack Developer
 - Looking for my first opportunity in software development  
 
@@ -30,6 +30,7 @@
 **Frontend (learning):**
 - HTML  
 - CSS  
+- JavaScript
 
 **Tools:**
 - Git  
@@ -51,8 +52,8 @@ Backend API built with Java and Spring Boot to manage teams, matches, and standi
 
 ## 📈 Currently Learning
 
-- HTML & CSS (in progress)  
-- JavaScript (next step)  
+- HTML & CSS  
+- JavaScript (in progress)
 - Web development fundamentals  
 
 ---
