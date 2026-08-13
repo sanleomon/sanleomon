@@ -1,39 +1,41 @@
 # Hi, I'm Santiago Monzon 👋
 
-🎓 Computer Engineering Student at UBA  
-💻 Junior Developer  
-🚀 Passionate about building applications and learning modern web technologies  
+🎓 Third-year Computer Engineering Student at UBA  
+💻 Junior Web Developer  
+🌐 Currently expanding my web development skills
 
 ---
 
 ## 🧠 About Me
 
-- Strong programming foundation (C, C++, Java)
-- Built a backend REST API project with Java and Spring Boot
-- Currently learning frontend development (HTML, CSS, JavaScript)
-- Interested in becoming a Fullstack Developer
-- Looking for my first opportunity in software development  
+- 💻 Strong programming foundation in Java, C, C++, and SQL
+- 🌐 Expanding my web development skills through hands-on projects and continuous learning
+- 🛠️ Currently working with HTML, CSS, and JavaScript, with a focus on building a broader full-stack skill set
+- 🚀 Looking for my first professional opportunity in software development 
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+### Programming Languages
 - Java
-- C / C++
-
-**Backend:**
-- Spring Boot  
-- REST APIs  
-- SQL  
-
-**Frontend (learning):**
-- HTML  
-- CSS  
 - JavaScript
+- C
+- C++
+- SQL
 
-**Tools:**
-- Git  
+### Web Development
+- HTML
+- CSS
+
+### Databases
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
 - Postman  
 
 ---
