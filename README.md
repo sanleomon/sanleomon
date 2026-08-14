@@ -40,32 +40,59 @@
 
 ---
 
-## 📂 Featured Project
+## 📁 Featured Projects
 
-### ⚽ Football Management API  
-Backend API built with Java and Spring Boot to manage teams, matches, and standings.
+### 🔄 Unit Converter
 
-🔗 https://github.com/sanleomon/gestion-futbol-api  
+Metric/imperial unit converter built with HTML, CSS, and JavaScript.
 
-✔ RESTful endpoints  
-✔ Clean code and OOP principles  
+- Converts length, volume, and mass between metric and imperial units
+- Built with vanilla JavaScript
+- Clean and simple user interface
+
+🔗 [Live Demo](https://unit-converter-sm.netlify.app/) | [Repository](https://github.com/sanleomon/unit-converter)
+
+---
+
+### 🔐 Password Generator
+
+Password generator built with HTML, CSS, and JavaScript.
+
+- Generates two random passwords at once
+- Copies passwords directly to the clipboard
+- Provides visual feedback after copying
+
+🔗 [Live Demo](https://password-generator-sanleomon.netlify.app) | [Repository](https://github.com/sanleomon/password-generator)
+
+---
+
+### ⚽ Football Management API
+
+Backend REST API built with Java and Spring Boot to manage teams, matches, and standings.
+
+- RESTful endpoints
+- Object-Oriented Programming principles
+- Structured backend architecture
+
+🔗 [Repository](https://github.com/sanleomon/gestion-futbol-api)  
 
 ---
 
 ## 📈 Currently Learning
 
-- HTML & CSS  
-- JavaScript (in progress)
-- Web development fundamentals  
+- CSS and responsive web design
+- JavaScript
+- Web accessibility
+- Modern web development practices 
 
 ---
 
 ## 🎯 Goal
 
-Become a Fullstack Developer and build complete web applications  
+Grow as a software developer by building strong full-stack web development skills and gaining professional experience through real-world projects.  
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/santiago-monzon
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-monzon/)
