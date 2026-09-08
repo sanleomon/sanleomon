@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 💻 Strong programming foundation in Java, C, C++, and SQL
+- 💻 Strong programming foundation in Java, C, Python, and SQL
 - 🌐 Expanding my web development skills through hands-on projects and continuous learning
 - 🛠️ Currently working with HTML, CSS, and JavaScript, with a focus on building a broader full-stack skill set
 - 🚀 Looking for my first professional opportunity in software development 
@@ -21,7 +21,7 @@
 - Java
 - JavaScript
 - C
-- C++
+- Python
 - SQL
 
 ### Web Development
