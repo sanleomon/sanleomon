@@ -42,6 +42,19 @@
 
 ## 📁 Featured Projects
 
+### 🍔 Urban Bites
+
+Restaurant ordering app built with HTML, CSS, and JavaScript.
+
+- Dynamically renders a restaurant menu
+- Allows users to add and remove items from their orders
+- Calculates the total price automatically
+- Includes a simulated checkout with form validation and personalized order confirmation
+
+🔗 [Live Demo](https://urban-bites-sm.netlify.app/) | [Repository](https://github.com/sanleomon/restaurant-ordering-app)
+
+---
+
 ### 🔄 Unit Converter
 
 Metric/imperial unit converter built with HTML, CSS, and JavaScript.
